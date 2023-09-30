@@ -3,7 +3,6 @@ const Tbale=document.querySelector(".table")
 
 
 const sumbit = document.getElementById("button")
-const btnclear =document.querySelector(".btnclear")
 
 sumbit.addEventListener("click", ()=>{
     const First =document.getElementById("firstname").value;
